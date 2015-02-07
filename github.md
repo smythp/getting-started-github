@@ -1,5 +1,4 @@
-
-
+## Part I: Your first Git repository
 
 So it looks like about half the class has starred the [class GitHub repository](https://github.com/mkgold/texttransform), and so you've probably seen the [tools and resources page)](https://github.com/mkgold/texttransform/blob/master/tools-resources.md). I just added some resource's for RegEx, Python, and NLTK, and I thought it would be useful to write a post that would serve as a quick intro to GitHub and the process of creating a pull request. That way, everyone will be able to edit the resources page, and we will all be able to share (and collaborate on) our work later in the class.
 
