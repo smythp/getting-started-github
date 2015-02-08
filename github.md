@@ -24,11 +24,11 @@ The best way to use Git is from the command line. GitHub has created quite usabl
 
 Once you have Git installed, open your terminal (or command prompt in Windows). On Mac, type "terminal" in the finder. On Windows, hit the Windows button and R and the same time and type *cmd* into the dialog box. 
 
-Type *mkdir testrepo* to create a new colder called "testrepo." Now move to the folder by typing *cd testrepo*. Now that we have a folder for our repository, let's create a text file to track with version control. In Mac or Linux, enter this line to create a text file that contains the line "Hello world!"
+Type *mkdir testrepo* to create a new folder called "testrepo." Now move to the folder by typing *cd testrepo*. Now that we have a folder for our repository, let's create a text file to track with version control. In Mac or Linux, enter this line to create a text file that contains the line "Hello world!"
 
 *echo "Hello world!" > hello.txt*
 
-"Echo" is the command to print text in the console. The ">" command pipes the text from echo into a new text file, hello.txt. If you're on Windows, this command won't work, so simply navigate tot the folder and create a text file using the graphical interface. 
+"Echo" is the command to print text in the console. The ">" command pipes the text from echo into a new text file, hello.txt. If you're on Windows, this command won't work, so simply navigate to the folder and create a text file using the graphical interface. 
 
 Now that we have our folder and text file, Git is installed and we're ready to start tracking changes. Our folder, *testrepo*, will be our repository, and we will be tracking the changes made to hello.txt. 
 
@@ -85,7 +85,7 @@ What we need is the commit ID, which is the long number after the word "commit" 
 
 Where ID is the commit's ID number. Your folder should now reflect the project's state at the time of the first commit. From this point, you can commit new changes or move back to a later commit using the same method. 
 
-Now your're up and running with Git! But there's still the matter of using GitHub to store the changes you make locally with Git and to collaborate on other projects. In Part II, we'll learned how to push and pull your code to and from GitHub and how to create a pull request so that another user can make use of your changes to their project. 
+Now your're up and running with Git! But there's still the matter of using GitHub to store the changes you make locally with Git and to collaborators on other projects. In Part II, we'll learned how to push and pull your code to and from GitHub and how to create a pull request so that another user can make use of your changes to their project. 
 
 More on Git:
 
