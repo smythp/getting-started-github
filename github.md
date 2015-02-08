@@ -57,7 +57,7 @@ Type *git commit -m "Added hello.txt"* to commit the files you've added to the r
 
 Let's check out the commits we've made up to this point. Type *git log* to show the version history of the current project. You should see only the initial commit at this stage. 
 
-Now put Git to the test. Make some changes to our hello.txt file, or create an entirely new text-based file (.txt, .py, .org, .md, etc). Go through the step above to add your changes to the repository. Once again:
+Now put Git to the test. Make some changes to our hello.txt file, or create an entirely new text-based file (.txt, .py, .org, .md, etc). Go through the steps above to add your changes to the repository. Once again:
 
 1. Make changes to the files in the folder.
 2. Use *git add .* to add all files in the folder to the repository. 
